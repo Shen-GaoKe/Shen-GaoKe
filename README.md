@@ -3,6 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-GaoKe)
 ![Metrics](/github-metrics.svg)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shen-GaoKe)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <!--
 **Shen-GaoKe/Shen-GaoKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
